@@ -198,9 +198,15 @@ header {
 .msg-box {
     height: 200px;
 }
-.send {
-    font-size: 25px font-family: DINPro-Bold;
+.send, .send a {
+    font-size: 30px 
+    font-family: DINPro-Bold;
     color: white;
+    text-decoration: none;
+}
+
+.send a:hover{
+    color : #1d1e20;
 }
 
 /*
@@ -244,6 +250,7 @@ header {
         padding: 0;
     }
 }
+
 @media (max-width: 1200px) {
     .intro-lead {
         line-height: 1em;
@@ -252,13 +259,15 @@ header {
     }
     .features .features-text {
         font-size: 30px;
+        margin-bottom: -15px;
     }
     .rock-you {
         margin-top: 55px;
         height: 300px;
     }
 }
-@media (max-width: 768px) {
+
+@media (max-width: 767px) {
     .intro-text {
         padding-top: 100px;
     }
@@ -270,7 +279,7 @@ header {
         height: 200px;
     }
     .features .features-text {
-        margin-bottom: 60px;
+        margin-bottom: 50px;
         text-align: center;
     }
     .features .col-sm-3 {
@@ -307,3 +316,40 @@ header {
         text-align: center;
     }
 }
+
+@media (max-width: 500px){
+    .intro-text .intro-lead{
+        font-size: 75px;
+    }
+
+    .intro-text .intro-desc{
+        font-size: 18px;
+    }
+
+    .pt-60{
+        margin-top: 80px;
+    }
+
+    .rock-you {
+    height: 180px;
+    }
+}
+
+@media (max-width: 400px){
+    .intro-text .intro-lead{
+        font-size: 55px;
+    }
+
+    .intro-text .intro-desc{
+        font-size: 15px;
+    }
+
+    .pt-60{
+        margin-top: 80px;
+    }
+
+    .rock-you {
+    height: 135px;
+    }
+}
+

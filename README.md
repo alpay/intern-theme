@@ -43,8 +43,7 @@ PSD to HTML work made for [Atölye15](http://www.atolye15.com/) - [Staj Kampı '
 * item description -> item-desc
 
 ## Gallery
-*Please read full documentation of [Photowall jQuery](https://github.com/creotiv/jquery-photowall)*
-*Photowall jQuery* used to make full width images.
+*Please read full documentation of [Photowall jQuery](https://github.com/creotiv/jquery-photowall)* used to make full width images.
 * Photowall jQuery CSS file -> css/jquery-photowall.css
 * Photowall jQuery js file -> js/jquery-photowall
 * Some Configuration is in -> js/jquery-photowall

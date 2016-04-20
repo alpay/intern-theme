@@ -1,9 +1,9 @@
-# Intern HTML5 Theme - Mobile Friendly 
-PSD to HTML work made for [Atölye15](http://www.atolye15.com/) - [Staj Kampı '16](http://www.stajkampi.com/). HTML5 - CSS3 - jQuery / Mobile-Tablet Friendly
+# Intern One Page HTML5 Theme - Mobile Friendly 
+PSD to HTML work made for [Atölye15](http://www.atolye15.com/) - [Staj Kampı '16](http://www.stajkampi.com/) / Mobile-Tablet Friendly
 
 *Special thanks to [Atölye15](http://www.atolye15.com/)'s UI/UX & Front-End Teams for this awesome theme and helping me.*
 
-[Download PSD File](http://bit.ly/24Ys0W6) 
+[Download PSD File](https://github.com/mangoser/intern-theme/raw/master/intern_theme_psd.zip) | [Preview of Theme](https://github.com/mangoser/intern-theme/raw/master/intern_theme_preview.png)
 
 12 Mart tarihinde İzmir Originn'de [Atölye15](http://www.atolye15.com/) tarafından düzenlenen Staj Kampında seçtiğim PSD'den HTML'e çalışmasının son halidir.
 

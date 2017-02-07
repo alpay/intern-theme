@@ -3,7 +3,7 @@ PSD to HTML work made for [Atölye15](http://www.atolye15.com/) - [Staj Kampı '
 
 *Special thanks to [Atölye15](http://www.atolye15.com/)'s UI/UX & Front-End Teams for this awesome theme and helping me.*
 
-[Download PSD File](https://github.com/mangoser/intern-theme/raw/master/intern_theme_psd.zip) | [Preview of Theme](https://github.com/mangoser/intern-theme/raw/master/intern_theme_preview.png)
+[Download PSD File](https://github.com/mangoser/intern-theme/raw/master/intern_theme_psd.zip) | [Preview of Theme](http://alpay.info/works/intern-theme/)
 
 12 Mart tarihinde İzmir Originn'de [Atölye15](http://www.atolye15.com/) tarafından düzenlenen Staj Kampında seçtiğim PSD'den HTML'e çalışmasının son halidir.
 
